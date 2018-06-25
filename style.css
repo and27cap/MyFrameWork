@@ -1,0 +1,11 @@
+.carousel-item,
+.carousel-inner,
+.carousel{
+  height: 600px;
+}
+
+
+.jumbotron,
+.jumbotron-fluid{
+  margin-bottom: auto;
+}
