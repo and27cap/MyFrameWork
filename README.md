@@ -7,7 +7,10 @@ La struttura del progetto è un sito web statico in cui ogni pagina conterrà st
 
 <h2>
 <ul> 
-  <li>Home page</li>
+  <li>Home page
+    <li>ok</li>
+  </li>
+  
 </ul>
 </h2>
 
