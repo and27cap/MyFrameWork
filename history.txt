@@ -1,0 +1,26 @@
+Version 0.1 | 25/06/2018
+
+File creati:
+	-cartella css
+			-bootstrap.css
+			-bootstrap.min.css
+	-cartella img
+			-slide1.jpg
+			-slide2.jpg
+			-slide3.jpg
+	-cartella js
+			-bootstrap.js
+			-bootstrap.min.js
+	-history.txt
+	-index.html
+	-style.css
+	-README.md
+	-.gitattributes
+
+File eliminati: /
+
+File aggiornati: /
+
+Pagine totali: 1
+
+______________________________________________________________
