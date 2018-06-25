@@ -5,18 +5,18 @@ La struttura del progetto è un sito web statico in cui ogni pagina conterrà st
 
 <h1><b>STRUTTURA DEL SITO</b></h1>
 
-<h2>
+<h3>
 <ul> 
   <li>Home</li>
-      <ul><h3>
+      <ul>
         <li>Navbar</li>
         <li>Slider</li>
         <li>Grid</li>
         <li>Card</li>
         <li>Jumbotron</li>
-      </h3></ul> 
+      </ul> 
 </ul>
-</h2>
+</h3>
 
 
 Ogni consiglio/critica è sempre ben aprezzata per migliorare.
